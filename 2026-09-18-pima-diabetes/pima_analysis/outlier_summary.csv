@@ -1,9 +1,0 @@
-﻿컬럼,하한,상한,이상치 후보
-Pregnancies,-6.5,13.5,4
-Glucose,36.0,204.0,0
-BloodPressure,40.0,104.0,14
-SkinThickness,1.0,57.0,3
-Insulin,-94.375,360.625,24
-BMI,13.849999999999998,50.25,8
-DiabetesPedigreeFunction,-0.32999999999999996,1.2,29
-Age,-1.5,66.5,9

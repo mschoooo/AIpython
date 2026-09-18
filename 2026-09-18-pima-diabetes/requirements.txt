@@ -1,5 +1,0 @@
-kagglehub[pandas-datasets]>=1.0,<2
-matplotlib>=3.11,<4
-seaborn>=0.13,<1
-scikit-learn>=1.9,<2
-joblib>=1.6,<2
